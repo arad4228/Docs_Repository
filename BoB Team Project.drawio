@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T07:26:22.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zS9mH7q_STOQBFe2hzD2" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-10T07:27:28.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="B0chtqa4zXcdy1iGdcgj" version="20.3.0" type="github" pages="2">
   <diagram name="Project Design" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1645" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0T_uLalzNDJKd-mAenRN-1" value="백신 서버" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-177" y="507.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="-167" y="507.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="0T_uLalzNDJKd-mAenRN-4" value="백신 클라이언트" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="203" y="480" width="120" height="45" as="geometry" />
@@ -207,7 +207,7 @@
             <mxPoint x="273" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0T_uLalzNDJKd-mAenRN-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.119;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0T_uLalzNDJKd-mAenRN-1" target="0T_uLalzNDJKd-mAenRN-7">
+        <mxCell id="0T_uLalzNDJKd-mAenRN-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.098;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0T_uLalzNDJKd-mAenRN-1" target="0T_uLalzNDJKd-mAenRN-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-87" y="750" as="sourcePoint" />
             <mxPoint x="-37" y="700" as="targetPoint" />
