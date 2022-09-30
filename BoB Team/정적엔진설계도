@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T13:34:17.583Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="IIHnnOiYwBc3Jq3JXnTx" version="20.3.6" type="github" pages="2">
-  <diagram id="Ce7ibZ580VqsWu7WFc_2" name="기획 설계도">
-    <mxGraphModel dx="2624" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-09-30T07:20:05.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VpXa9-uDiX753gTQUEXF" version="20.3.2" type="github" pages="3">
+  <diagram id="Ce7ibZ580VqsWu7WFc_2" name="기획 설계도(기존)">
+    <mxGraphModel dx="3120" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,6 +118,14 @@
         <mxCell id="GkTBZ4A9idr4ocbbtWGm-5" value="&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;DB에 C &amp;amp; C데이터 저장&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-1002.5" y="460" width="120" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="16vWx4aAcXlnmtDYG45o" name="기획 설계도">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
